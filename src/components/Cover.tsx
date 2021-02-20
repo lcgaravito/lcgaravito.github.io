@@ -9,6 +9,7 @@ export default function Cover(props: CoverProps) {
     <div>
       <h1>Luis Carlos Garavito</h1>
       <h2>Site running</h2>
+      <h3>Site running</h3>
     </div>
   )
 }
