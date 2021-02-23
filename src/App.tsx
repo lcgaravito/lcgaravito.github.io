@@ -9,14 +9,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Cover test= {true} />
-        <h2>Sitio en creación</h2>
+        <h3>Website under construction</h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/luis-garavito/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          See my Linkedin
         </a>
       </header>
     </div>
